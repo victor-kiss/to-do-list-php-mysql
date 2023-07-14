@@ -12,7 +12,7 @@
 
 ```
 CREATE TABLE tasks (
-	`taskID` INT AUTO_INCREMENT,
+    `taskID` INT AUTO_INCREMENT,
     `task` VARCHAR(255)  NOT NULL UNIQUE,
     `task_name` VARCHAR(100) NOT NULL  UNIQUE,
     PRIMARY KEY (`taskID`)
