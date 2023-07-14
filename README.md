@@ -2,7 +2,7 @@
 
 <p>a simple to-do list using pdo and mysql, i hope you like it!</p>
 
-## Getting Started :space_invader !
+## Getting Started
 
 <p>Let's create the database, frist install <a href="https://www.mysql.com/">MySQl</a>,<a href="https://www.php.net/">php</a> and <a href="https://www.mysql.com/products/workbench/">MySQL Workbench</a> if not installed yet.<p>
 
